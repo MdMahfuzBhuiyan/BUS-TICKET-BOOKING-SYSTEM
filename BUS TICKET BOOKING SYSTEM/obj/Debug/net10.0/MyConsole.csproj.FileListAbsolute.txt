@@ -1,0 +1,28 @@
+/home/mahfuz-bhuiyan/ConsoleApp/MyConsole/bin/Debug/net10.0/MyConsole
+/home/mahfuz-bhuiyan/ConsoleApp/MyConsole/bin/Debug/net10.0/MyConsole.deps.json
+/home/mahfuz-bhuiyan/ConsoleApp/MyConsole/bin/Debug/net10.0/MyConsole.runtimeconfig.json
+/home/mahfuz-bhuiyan/ConsoleApp/MyConsole/bin/Debug/net10.0/MyConsole.dll
+/home/mahfuz-bhuiyan/ConsoleApp/MyConsole/bin/Debug/net10.0/MyConsole.pdb
+/home/mahfuz-bhuiyan/ConsoleApp/MyConsole/obj/Debug/net10.0/MyConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/mahfuz-bhuiyan/ConsoleApp/MyConsole/obj/Debug/net10.0/MyConsole.AssemblyInfoInputs.cache
+/home/mahfuz-bhuiyan/ConsoleApp/MyConsole/obj/Debug/net10.0/MyConsole.AssemblyInfo.cs
+/home/mahfuz-bhuiyan/ConsoleApp/MyConsole/obj/Debug/net10.0/MyConsole.csproj.CoreCompileInputs.cache
+/home/mahfuz-bhuiyan/ConsoleApp/MyConsole/obj/Debug/net10.0/MyConsole.dll
+/home/mahfuz-bhuiyan/ConsoleApp/MyConsole/obj/Debug/net10.0/refint/MyConsole.dll
+/home/mahfuz-bhuiyan/ConsoleApp/MyConsole/obj/Debug/net10.0/MyConsole.pdb
+/home/mahfuz-bhuiyan/ConsoleApp/MyConsole/obj/Debug/net10.0/MyConsole.genruntimeconfig.cache
+/home/mahfuz-bhuiyan/ConsoleApp/MyConsole/obj/Debug/net10.0/ref/MyConsole.dll
+/home/mahfuz-bhuiyan/ConsoleApp/BUS TICKET BOOKING SYSTEM/bin/Debug/net10.0/MyConsole
+/home/mahfuz-bhuiyan/ConsoleApp/BUS TICKET BOOKING SYSTEM/bin/Debug/net10.0/MyConsole.deps.json
+/home/mahfuz-bhuiyan/ConsoleApp/BUS TICKET BOOKING SYSTEM/bin/Debug/net10.0/MyConsole.runtimeconfig.json
+/home/mahfuz-bhuiyan/ConsoleApp/BUS TICKET BOOKING SYSTEM/bin/Debug/net10.0/MyConsole.dll
+/home/mahfuz-bhuiyan/ConsoleApp/BUS TICKET BOOKING SYSTEM/bin/Debug/net10.0/MyConsole.pdb
+/home/mahfuz-bhuiyan/ConsoleApp/BUS TICKET BOOKING SYSTEM/obj/Debug/net10.0/MyConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/mahfuz-bhuiyan/ConsoleApp/BUS TICKET BOOKING SYSTEM/obj/Debug/net10.0/MyConsole.AssemblyInfoInputs.cache
+/home/mahfuz-bhuiyan/ConsoleApp/BUS TICKET BOOKING SYSTEM/obj/Debug/net10.0/MyConsole.AssemblyInfo.cs
+/home/mahfuz-bhuiyan/ConsoleApp/BUS TICKET BOOKING SYSTEM/obj/Debug/net10.0/MyConsole.csproj.CoreCompileInputs.cache
+/home/mahfuz-bhuiyan/ConsoleApp/BUS TICKET BOOKING SYSTEM/obj/Debug/net10.0/MyConsole.dll
+/home/mahfuz-bhuiyan/ConsoleApp/BUS TICKET BOOKING SYSTEM/obj/Debug/net10.0/refint/MyConsole.dll
+/home/mahfuz-bhuiyan/ConsoleApp/BUS TICKET BOOKING SYSTEM/obj/Debug/net10.0/MyConsole.pdb
+/home/mahfuz-bhuiyan/ConsoleApp/BUS TICKET BOOKING SYSTEM/obj/Debug/net10.0/MyConsole.genruntimeconfig.cache
+/home/mahfuz-bhuiyan/ConsoleApp/BUS TICKET BOOKING SYSTEM/obj/Debug/net10.0/ref/MyConsole.dll
